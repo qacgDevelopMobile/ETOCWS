@@ -1,0 +1,18 @@
+{  
+   "result":{  
+      "applicationStatus":"OK",
+      "message":"Consulta ejecutada correctamente."
+   },
+   "listaClientesRuta":[  
+      {  
+         "codigoRuta":2818,
+         "clicod":"981700100427",
+         "clinom":"AUT RD UNIMARC LOS MILITARES L469",
+         "diaSemana":6,
+         "ordenVisitaDia":1,
+         "horaVisita":"0600",
+         "numPedidosTotalesPorRuta":1,
+         "estatus":"NO_VALIDADO"
+      }
+   ]
+}

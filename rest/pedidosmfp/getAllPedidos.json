@@ -1,0 +1,46 @@
+{  
+   "result":{  
+      "applicationStatus":"OK",
+      "message":"Consulta ejecutada correctamente."
+   },
+   "pedidoMFPEncVOs":[  
+      {  
+         "idPedido":"ETOC2017052608352610",
+         "descargado":"0",
+         "descripcionCanal":null,
+         "descripcionCliente":"AUT RD UNIMARC LOS MILITARES L469",
+         "descripcionRuta":null,
+         "enviado":"0",
+         "fechaCreacion":"",
+         "fechaModificacion":"",
+         "fechaPedido":"2017-05-29",
+         "fechaVenta":"2017-05-29",
+         "idCanal":null,
+         "idCliente":981700100427,
+         "idRuta":"2818",
+         "idRutaTitular":"2818",
+         "idUsuario":null,
+         "ordenCompra":"28189817001004272818",
+         "salesCentersVO":{  
+            "idSalesCenter":1589,
+            "code":"14139",
+            "description":"14139 GRANDES CLIENTES AS MC",
+            "enabled":1,
+            "idOrganization":241,
+            "channelType":"AS",
+            "isMultichannel":1
+         },
+         "idAgencia":"14139",
+         "result":null,
+         "listPedidoDetllVO":null,
+         "estatus":{  
+            "idEstatus":600.0,
+            "descripcion":"Nuevo"
+         },
+         "totalPedidoBase":0,
+         "totalPedidoModificado":0,
+         "totalPrecioBase":0,
+         "totalPrecioModificado":0
+      }
+   ]
+}
